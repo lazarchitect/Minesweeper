@@ -1,6 +1,5 @@
 # Minesweeper
-Minesweeper clone in Python 3 using the built-in Tkinter GUI module. Uses a simple random word API to generate the puzzles. 
-In case of no internet access, a preselected list of words will be chosen from at random. 
+Minesweeper clone in Python 3 using the built-in Tkinter GUI module. 
 
 The main mechanic of the game involves an overlay of a logical 2D array of integers forming the backbone, 
 and a visual grid of block objects forming the front end. 

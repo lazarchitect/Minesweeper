@@ -2,3 +2,4 @@ Eddie: 37 seconds
 Fredericko: 134 seconds
 Redger: 19 seconds
 Credddf,1x2: 1 seconds
+Eddie,3x1: 76 seconds
